@@ -9,12 +9,4 @@
 
 ## Running the project
 
-Read through [this](https://github.com/symonxdd/wp2-mavm5/blob/master/wp2-setup.pdf) tutorial 👌.
-
-#### Used framework
-
-Laravel
-
-#### Server-side validation
-
-app/Http/Controllers/UserController.php
+Read through [this](https://github.com/symonxdd/wp2-mavm5/blob/master/wp2-setup.pdf) tutorial 👌
