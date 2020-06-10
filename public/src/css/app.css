@@ -1,0 +1,32 @@
+* {
+
+}
+
+.card img {
+
+}
+
+.price {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.card {
+    width: 15rem;
+}
+
+.card-text {
+    font-size: 0.8rem;
+}
+
+nav {
+    margin-bottom: 50px;
+}
+
+.row {
+    padding-bottom: 30px;
+}
+
+#nav_item_myaccount {
+    margin-right: 30px;
+}
