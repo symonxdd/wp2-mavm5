@@ -9,7 +9,7 @@
 
 ## Running the project
 
-Read through [this](https://github.com/webadv2020/wp2-mavm5/blob/master/wp2-setup.pdf) tutorial 👌.
+Read through [this](https://github.com/symonxdd/wp2-mavm5/blob/master/wp2-setup.pdf) tutorial 👌.
 
 #### Used framework
 
